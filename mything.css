@@ -125,7 +125,7 @@ div.text69 a{
  display:flex;
  justify-content:center;   
 }
-.bottombar{
+.doodbar{
     margin-bottom:-5vh;
     margin-left:-0.38vw;
     height:12vh;
@@ -134,7 +134,7 @@ div.text69 a{
     position:relative ;
     top:0vh;
    }
-   .bottomtext{
+   .doodtext{
      width:100%;
      height:100%;
      font-size:large;
@@ -147,10 +147,10 @@ div.text69 a{
     gap:8vw;
     cursor:pointer;
    }
-div.bottomtext a{
+div.doodtext a{
   text-decoration:none ;  
   color:rgb(66, 182, 245);
 }
-   div.bottomtext a:hover{
+   div.doodtext a:hover{
     color:rgb(66, 182, 245)
    }
