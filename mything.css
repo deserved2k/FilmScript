@@ -88,23 +88,23 @@ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ox
 }
 .html5{
     position:relative;
-    top:12vh;
-    left:25vw;
+    top:10vh;
+    left:17vw;
 }
 .css3{
 position: relative;
-top:12vh;
-left:38vw;
+top:10vh;
+left:31vw;
 }
 .js{
     position: relative;
-    top: 12vh;
-    left:51vw;
+    top: 10vh;
+    left:45vw;
 }
 .bootstrap{
     position: relative;
-   top:12vh;
-    left:64vw;   
+   top:10vh;
+    left:59vw;   
 }
 .text69{
  display:flex;
@@ -117,7 +117,11 @@ left:38vw;
  color:white;
  font-weight:bold;
  position: relative;
- top:40vh;
- left:8vw;
- gap:6vw;
+ top:35vh;
+ left: 0.3vw;
+ gap:8.3vw;
+}
+div.text69 a{
+ display:flex;
+ justify-content:center;   
 }
